@@ -1,3 +1,3 @@
 ## sharing-github
 
-This repo contains files I don't know where to put them.
+This repo contains shared files such as figures used in Jupyter notebooks.
